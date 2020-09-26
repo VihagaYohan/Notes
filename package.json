@@ -6,9 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "engines": {
-    "node": "12.18.3"
-  },
   "author": "Vihaga Yohan",
   "license": "ISC",
   "dependencies": {
@@ -17,5 +14,8 @@
     "joi": "^13.1.0",
     "mongoose": "^5.10.7",
     "nodemon": "^2.0.4"
+  },
+  "engines": {
+    "node": "12.18.3"
   }
 }
